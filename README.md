@@ -6,4 +6,3 @@
 - 🧠 Currently learning vue | ✍️ Working on a worpdress theme for a client
 
 ![Philip Brembeck Stats](https://github-readme-stats.vercel.app/api?username=philipbrembeck&theme=dark)
-![Philip Brembeck Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=philipbrembeck&layout=compact&theme=dark)
