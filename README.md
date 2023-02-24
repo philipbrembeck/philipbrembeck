@@ -1,7 +1,7 @@
 ## 👋   Hi, I'm Philip (Jake) [[ˈfɪləp ʤeɪk]](https://philipbrembeck.com). 
 
 I mostly work with HTML, S/CSS and JavaScript. I'm currently learning React (Next.js) and Node.js.<br />
-Before getting into newer technologies, I did everything in PHP.  
+Before getting into newer technologies, I did everything in PHP. I only work on FOSS projects on GitHub.
 
 ### Links
 
@@ -39,3 +39,8 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
   </picture>
 </a>
 </div>
+
+### What I did before that
+* Several commits to the WHATWG [HTML Standard](https://github.com/whatwg/html)
+* MetaTag Documentation for the WHATWG Wiki via [JokeNetwork FAQ](https://github.com/JokeNetwork/faq)
+* [SCSS-Scratch](https://github.com/JokeNetwork/SCSS-Scratch): A starting point for new SCSS projects 
