@@ -27,8 +27,8 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 
 <a href="https://github.com/JokeNetwork/VeganCheck-Grades">
   <picture>
-      <source srcset="https://user-images.githubusercontent.com/4144601/221287511-5f6b0c6e-7e6d-4b02-935a-46d8f8c4ac50.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://user-images.githubusercontent.com/4144601/221287515-37a61d5e-3a3e-42e3-9d73-f504be6fde47.svg" width="200" alt="VeganCheck Grades are actual useful product ratings for vegan products. (Built with Next.js/Node.js) Go to repositiory">
+      <source srcset="https://user-images.githubusercontent.com/4144601/221302091-c996c8c7-88f3-48ec-826d-c6342f9c8ab6.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://user-images.githubusercontent.com/4144601/221302094-4c92b5e8-b1cb-4780-9996-8c1ca93ba42e.svg" width="200" alt="VeganCheck Grades are actual useful product ratings for vegan products. (Built with Next.js/Node.js) Go to repositiory">
   </picture>
 </a>
 
