@@ -1,5 +1,7 @@
 ## 👋   Hi, I'm Philip (Jake) [[ˈfɪləp ʤeɪk]](https://philipbrembeck.com). 
 
+I'm currently a working student [@MaibornWolff](https://github.com/maibornwolff). 
+
 I mostly work with HTML, S/CSS and JavaScript. I'm currently learning React (Next.js) and Node.js.<br />
 Before getting into newer technologies, I did everything in PHP. I only work on FOSS projects on GitHub.
 
