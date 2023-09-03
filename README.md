@@ -22,7 +22,7 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 
 <a href="https://github.com/frontendnetwork/VeganCheck.me-API">
   <picture>
-      <source srcset="https://user-images.githubusercontent.com/4144601/221285716-8a02c714-b420-40d3-8d61-c2bd492b7762.svg" media="(prefers-color-scheme: dark)">
+      <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/3ba929ab-de79-4bde-909b-a0eb1c452e98" media="(prefers-color-scheme: dark)">
       <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/e85be047-a852-4fce-b03b-5f68b161dc7b" width="200" alt="VeganCheck API: the API for VeganCheck.me including Ingredients API and PETA API. (Built with Node.js) Go to repositiory">
   </picture>
 </a>
@@ -46,4 +46,6 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 * Several commits to the WHATWG [HTML Standard](https://github.com/whatwg/html)
 * MetaTag Documentation for the WHATWG Wiki via [JokeNetwork FAQ](https://github.com/frontendnetwork/faq)
 * [SCSS-Scratch](https://github.com/frontendnetwork/SCSS-Scratch): A starting point for new SCSS projects
+
+
 
