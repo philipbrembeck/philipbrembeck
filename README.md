@@ -13,24 +13,24 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 
 ### Current projects
 <div align="center">
-<a href="https://github.com/frontendnetwork/vegancheck.me">
+<a href="https://github.com/frontendnetwork/veganify">
   <picture>
-      <source srcset="https://user-images.githubusercontent.com/4144601/221286525-c0248ec0-0190-404f-85f1-00f4d8a3082a.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://user-images.githubusercontent.com/4144601/221286529-4a75d8dd-4921-4503-84b2-ce99b0c54557.svg" width="200" alt="VeganCheck.me is a modern PWA that helps vegans to check if a product is vegan. (Built with Next.js) Go to repositiory">
+      <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/2c4b7ab1-fe7d-45fc-8320-0ea29fc6a0e6" media="(prefers-color-scheme: dark)">
+      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/c4a5f856-3a5f-42e2-9c72-3faeaaf87073" width="200" alt="VeganCheck.me is a modern PWA that helps vegans to check if a product is vegan. (Built with Next.js) Go to repositiory">
   </picture>
 </a>
 
-<a href="https://github.com/frontendnetwork/VeganCheck.me-API">
+<a href="https://github.com/frontendnetwork/veganify-API">
   <picture>
-      <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/3ba929ab-de79-4bde-909b-a0eb1c452e98" media="(prefers-color-scheme: dark)">
-      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/e85be047-a852-4fce-b03b-5f68b161dc7b" width="200" alt="VeganCheck API: the API for VeganCheck.me including Ingredients API and PETA API. (Built with Node.js) Go to repositiory">
+      <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/00a41bb0-6f27-4410-a9f2-be0cb13244d1" media="(prefers-color-scheme: dark)">
+      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/3202f306-5c70-4cae-b895-3fd5258ec941" width="200" alt="VeganCheck API: the API for VeganCheck.me including Ingredients API and PETA API. (Built with Node.js) Go to repositiory">
   </picture>
 </a>
 
-<a href="https://github.com/frontendnetwork/VeganCheck-Grades">
+<a href="https://github.com/frontendnetwork/veganify-grades">
   <picture>
-      <source srcset="https://user-images.githubusercontent.com/4144601/221302091-c996c8c7-88f3-48ec-826d-c6342f9c8ab6.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://user-images.githubusercontent.com/4144601/221302094-4c92b5e8-b1cb-4780-9996-8c1ca93ba42e.svg" width="200" alt="VeganCheck Grades are actual useful product ratings for vegan products. (Built with Next.js/Node.js) Go to repositiory">
+      <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/f96dd4d1-1924-42eb-a004-7e006fecd67d" media="(prefers-color-scheme: dark)">
+      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/ed5942e7-cbae-4240-900c-9f6e3710d71d" width="200" alt="VeganCheck Grades are actual useful product ratings for vegan products. (Built with Next.js/Node.js) Go to repositiory">
   </picture>
 </a>
 
@@ -46,6 +46,3 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 * Several commits to the WHATWG [HTML Standard](https://github.com/whatwg/html)
 * MetaTag Documentation for the WHATWG Wiki via [JokeNetwork FAQ](https://github.com/frontendnetwork/faq)
 * [SCSS-Scratch](https://github.com/frontendnetwork/SCSS-Scratch): A starting point for new SCSS projects
-
-
-
