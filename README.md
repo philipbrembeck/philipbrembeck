@@ -16,21 +16,21 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 <a href="https://github.com/frontendnetwork/veganify">
   <picture>
       <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/2c4b7ab1-fe7d-45fc-8320-0ea29fc6a0e6" media="(prefers-color-scheme: dark)">
-      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/c4a5f856-3a5f-42e2-9c72-3faeaaf87073" width="200" alt="VeganCheck.me is a modern PWA that helps vegans to check if a product is vegan. (Built with Next.js) Go to repositiory">
+      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/c4a5f856-3a5f-42e2-9c72-3faeaaf87073" width="200" alt="Veganify is a modern PWA that helps vegans to check if a product is vegan. (Built with Next.js) Go to repositiory">
   </picture>
 </a>
 
 <a href="https://github.com/frontendnetwork/veganify-API">
   <picture>
       <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/00a41bb0-6f27-4410-a9f2-be0cb13244d1" media="(prefers-color-scheme: dark)">
-      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/3202f306-5c70-4cae-b895-3fd5258ec941" width="200" alt="VeganCheck API: the API for VeganCheck.me including Ingredients API and PETA API. (Built with Node.js) Go to repositiory">
+      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/3202f306-5c70-4cae-b895-3fd5258ec941" width="200" alt="Veganify API: the API for Veganify including Ingredients API and PETA API. (Built with Node.js) Go to repositiory">
   </picture>
 </a>
 
 <a href="https://github.com/frontendnetwork/veganify-grades">
   <picture>
       <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/f96dd4d1-1924-42eb-a004-7e006fecd67d" media="(prefers-color-scheme: dark)">
-      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/ed5942e7-cbae-4240-900c-9f6e3710d71d" width="200" alt="VeganCheck Grades are actual useful product ratings for vegan products. (Built with Next.js/Node.js) Go to repositiory">
+      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/ed5942e7-cbae-4240-900c-9f6e3710d71d" width="200" alt="Veganify Grades are actual useful product ratings for vegan products. (Built with Next.js/Node.js) Go to repositiory">
   </picture>
 </a>
 
