@@ -2,8 +2,8 @@
 
 I'm currently a Junior Software Engineer [@MaibornWolff](https://github.com/maibornwolff). 
 
-I mostly work with HTML, S/CSS, Type- and JavaScript, React (Next.js) and Node.js.<br />
-Before getting into newer technologies, I did everything in PHP. I only work on FOSS projects on GitHub.
+I mostly work with S/CSS, Type- and JavaScript, React (Next.js) and Node.js.<br />
+I only work on FOSS projects on GitHub.
 
 ### Links
 
