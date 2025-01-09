@@ -1,6 +1,6 @@
 ## 👋   Hi, I'm Philip (Jake) [[ˈfɪləp ʤeɪk]](https://philipbrembeck.com). 
 
-I'm currently a Junior Software Engineer [@MaibornWolff](https://github.com/maibornwolff). 
+I'm currently a Professional Software Engineer [@MaibornWolff](https://github.com/maibornwolff). 
 
 I mostly work with S/CSS, Type- and JavaScript, React (Next.js) and Node.js.<br />
 I only work on FOSS projects on GitHub.
