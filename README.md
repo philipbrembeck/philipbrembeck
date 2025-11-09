@@ -44,5 +44,5 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 
 ### What I did before that
 * Several commits to the WHATWG [HTML Standard](https://github.com/whatwg/html)
-* MetaTag Documentation for the WHATWG Wiki via [JokeNetwork FAQ](https://github.com/frontendnetwork/faq)
+* MetaTag Documentation for the WHATWG Wiki via [FENMETA FAQ](https://github.com/frontendnetwork/faq)
 * [SCSS-Scratch](https://github.com/frontendnetwork/SCSS-Scratch): A starting point for new SCSS projects
