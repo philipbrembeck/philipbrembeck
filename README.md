@@ -16,8 +16,7 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 <a href="https://co.ffee.app">
   <picture>
       <source srcset="https://github.com/user-attachments/assets/a1a61347-fe3d-4476-acb4-67d83723cfa3" media="(prefers-color-scheme: dark)">
-      <img src="
-https://github.com/user-attachments/assets/190c4041-1473-412c-9731-3fbf1d1a133a" width="200" alt="GrindSize: an app for coffee enthusiasts that helps you track your coffee brewing sessions. (Built with Next.js) Go to app">
+      <img src="https://github.com/user-attachments/assets/190c4041-1473-412c-9731-3fbf1d1a133a" width="200" alt="GrindSize: an app for coffee enthusiasts that helps you track your coffee brewing sessions. (Built with Next.js) Go to app">
   </picture>
 </a>
   
