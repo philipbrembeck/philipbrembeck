@@ -1,9 +1,3 @@
-![grindsize_dark](https://github.com/user-attachments/assets/d07450fd-8bbc-436c-8576-da7cc9765509)
-
-
-![grindsize_light](https://github.com/user-attachments/assets/a1138c9c-44eb-4162-bfda-5934259d6cd0)
-
-
 ## 👋   Hi, I'm Philip (Jake) [[ˈfɪləp ʤeɪk]](https://philipbrembeck.com). 
 
 I'm currently a Professional Software Engineer [@MaibornWolff](https://github.com/maibornwolff). 
@@ -44,6 +38,14 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
   <picture>
       <source srcset="https://user-images.githubusercontent.com/4144601/221288330-61d5cc0d-de32-4d04-89d7-7debbc497f9e.svg" media="(prefers-color-scheme: dark)">
       <img src="https://user-images.githubusercontent.com/4144601/221288338-d16e68e5-5a91-4e01-a953-f5d764bf4c30.svg" width="200" alt="Uptodon: a Mastdon bot that toots if a service is down on UptimeRobot. (Built with Node.js) Go to repositiory">
+  </picture>
+</a>
+
+<a href="https://co.ffee.app">
+  <picture>
+      <source srcset="https://github.com/user-attachments/assets/a1a61347-fe3d-4476-acb4-67d83723cfa3" media="(prefers-color-scheme: dark)">
+      <img src="
+https://github.com/user-attachments/assets/190c4041-1473-412c-9731-3fbf1d1a133a" width="200" alt="GrindSize: an app for coffee enthusiasts that helps you track your coffee brewing sessions. (Built with Next.js) Go to app">
   </picture>
 </a>
 </div>
