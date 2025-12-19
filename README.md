@@ -13,17 +13,18 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
 
 ### Current projects
 <div align="center">
+<a href="https://co.ffee.app">
+  <picture>
+      <source srcset="https://github.com/user-attachments/assets/a1a61347-fe3d-4476-acb4-67d83723cfa3" media="(prefers-color-scheme: dark)">
+      <img src="
+https://github.com/user-attachments/assets/190c4041-1473-412c-9731-3fbf1d1a133a" width="200" alt="GrindSize: an app for coffee enthusiasts that helps you track your coffee brewing sessions. (Built with Next.js) Go to app">
+  </picture>
+</a>
+  
 <a href="https://github.com/frontendnetwork/veganify">
   <picture>
       <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/2c4b7ab1-fe7d-45fc-8320-0ea29fc6a0e6" media="(prefers-color-scheme: dark)">
       <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/c4a5f856-3a5f-42e2-9c72-3faeaaf87073" width="200" alt="Veganify is a modern PWA that helps vegans to check if a product is vegan. (Built with Next.js) Go to repositiory">
-  </picture>
-</a>
-
-<a href="https://github.com/frontendnetwork/veganify-API">
-  <picture>
-      <source srcset="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/00a41bb0-6f27-4410-a9f2-be0cb13244d1" media="(prefers-color-scheme: dark)">
-      <img src="https://github.com/philipbrembeck/philipbrembeck/assets/4144601/3202f306-5c70-4cae-b895-3fd5258ec941" width="200" alt="Veganify API: the API for Veganify including Ingredients API and PETA API. (Built with Node.js) Go to repositiory">
   </picture>
 </a>
 
@@ -38,14 +39,6 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
   <picture>
       <source srcset="https://user-images.githubusercontent.com/4144601/221288330-61d5cc0d-de32-4d04-89d7-7debbc497f9e.svg" media="(prefers-color-scheme: dark)">
       <img src="https://user-images.githubusercontent.com/4144601/221288338-d16e68e5-5a91-4e01-a953-f5d764bf4c30.svg" width="200" alt="Uptodon: a Mastdon bot that toots if a service is down on UptimeRobot. (Built with Node.js) Go to repositiory">
-  </picture>
-</a>
-
-<a href="https://co.ffee.app">
-  <picture>
-      <source srcset="https://github.com/user-attachments/assets/a1a61347-fe3d-4476-acb4-67d83723cfa3" media="(prefers-color-scheme: dark)">
-      <img src="
-https://github.com/user-attachments/assets/190c4041-1473-412c-9731-3fbf1d1a133a" width="200" alt="GrindSize: an app for coffee enthusiasts that helps you track your coffee brewing sessions. (Built with Next.js) Go to app">
   </picture>
 </a>
 </div>
