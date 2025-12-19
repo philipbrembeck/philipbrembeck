@@ -7,9 +7,9 @@ I only work on FOSS projects on GitHub.
 
 ### Links
 
-Portfolio: [philipbrembeck.com](https://philipbrembeck.com) | Mail: <philip@brembeck.me>
+Personal Website: [philipbrembeck.com](https://philipbrembeck.com) | Mail: <philip@brembeck.me>
 
-More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://instagram.com/jakesbier) | [Wakatime](https://wakatime.com/@philipbrembeck) | [security.txt](https://cldsi.de/.well-known/security.txt)
+More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Wakatime](https://wakatime.com/@philipbrembeck) | [security.txt](https://cldsi.de/.well-known/security.txt)
 
 ### Current projects
 <div align="center">
@@ -41,8 +41,3 @@ More: [Mastodon](https://fosstodon.org/@philipbrembeck) | [Instagram](https://in
   </picture>
 </a>
 </div>
-
-### What I did before that
-* Several commits to the WHATWG [HTML Standard](https://github.com/whatwg/html)
-* MetaTag Documentation for the WHATWG Wiki via [FENMETA FAQ](https://github.com/frontendnetwork/faq)
-* [SCSS-Scratch](https://github.com/frontendnetwork/SCSS-Scratch): A starting point for new SCSS projects
