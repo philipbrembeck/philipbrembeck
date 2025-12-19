@@ -1,3 +1,9 @@
+![grindsize_dark](https://github.com/user-attachments/assets/d07450fd-8bbc-436c-8576-da7cc9765509)
+
+
+![grindsize_light](https://github.com/user-attachments/assets/a1138c9c-44eb-4162-bfda-5934259d6cd0)
+
+
 ## 👋   Hi, I'm Philip (Jake) [[ˈfɪləp ʤeɪk]](https://philipbrembeck.com). 
 
 I'm currently a Professional Software Engineer [@MaibornWolff](https://github.com/maibornwolff). 
