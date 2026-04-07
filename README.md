@@ -1,6 +1,6 @@
 ## 👋   Hi, I'm Philip (Jake) [[ˈfɪləp ʤeɪk]](https://philipbrembeck.com). 
 
-I'm currently a Professional Software Engineer / MLOps Engineer [@MaibornWolff](https://github.com/maibornwolff).
+I'm currently a Lead Software Engineer / MLOps Engineer [@MaibornWolff](https://github.com/maibornwolff).
 
 FOSS & Coffee Enthusiast ☕️
 
